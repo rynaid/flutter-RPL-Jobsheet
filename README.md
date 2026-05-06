@@ -46,3 +46,10 @@ HERE: [Assigment Week 4](jobsheet4/jobsheet4/lib/main.dart)
             - LayoutBuilder
 
 HERE: [Assigment Week 5](jobsheet5/jobsheet5/lib/main.dart)
+
+6th Assigment Here:
+
+            - Navigate Screen
+            - Routing Screen
+
+HERE: [Assigment Week 6](jobsheet6/jobsheet6/lib/main.dart)
