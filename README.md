@@ -19,3 +19,13 @@ first week Assignment here :
     3. Getting started with Flutter
 
 Second Week Assignment :
+
+[Assigment Week 2](electra-resto.dart)
+
+3rd Assignment Here :
+
+    Creating a PowerPoint presentation for this semester’s final project idea
+
+4th Assigment Here:
+
+[Assigment Week 4](jobsheet4/ib/main.dart)
