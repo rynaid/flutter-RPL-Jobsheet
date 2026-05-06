@@ -20,7 +20,7 @@ first week Assignment here :
 
 Second Week Assignment :
 
-[Assigment Week 2](electra-resto.dart)
+[Assigment Week 2](jobsheet1/electra-resto.dart)
 
 3rd Assignment Here :
 
@@ -28,4 +28,4 @@ Second Week Assignment :
 
 4th Assigment Here:
 
-[Assigment Week 4](jobsheet4/ib/main.dart)
+HERE: [Assigment Week 4](jobsheet4/lib/main.dart)
