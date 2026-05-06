@@ -28,8 +28,21 @@ HERE: [Assigment Week 2](jobsheet1/electra-resto.dart)
 
 4th Assigment Here:
 
+    Widgets of 
+            - Buttons
+            - Image
+            - Fonts
+            - Textfield / Input Widget
+
 HERE: [Assigment Week 4](jobsheet4/jobsheet4/lib/main.dart)
 
 5th Assigment Here:
+
+    Widgets of 
+            - Expanded
+            - Flexible
+    and functions of 
+            - MediaQuery
+            - LayoutBuilder
 
 HERE: [Assigment Week 5](jobsheet5/jobsheet5/lib/main.dart)
