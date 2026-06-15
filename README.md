@@ -10,7 +10,7 @@ This repository has been created for the purpose of completing assignments for t
 
     Platform: Cross-platform (Android & iOS compatible)
 
-first week Assignment here :
+First week Assignment here :
 
     - An introduction to Flutter
     - How to install Flutter
@@ -58,6 +58,7 @@ HERE: [Assigment Week 6](jobsheet6/jobsheet6/lib/main.dart)
             - Shared Preferences
 
 HERE: [Assigment Week 7](jobsheet7/jobsheet7/lib/main.dart)
+
 
 ## Final Project Assignment
 
