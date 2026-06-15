@@ -10,13 +10,11 @@ This repository has been created for the purpose of completing assignments for t
 
     Platform: Cross-platform (Android & iOS compatible)
 
-first week Assignment here :
+First week Assignment here :
 
-    1. An introduction to Flutter
-
-    2. How to install Flutter
-
-    3. Getting started with Flutter
+    - An introduction to Flutter
+    - How to install Flutter
+    - Getting started with Flutter
 
 Second Week Assignment :
 
@@ -59,4 +57,24 @@ HERE: [Assigment Week 6](jobsheet6/jobsheet6/lib/main.dart)
             - API Method
             - Shared Preferences
 
-HERE: 
+HERE: [Assigment Week 7](jobsheet7/jobsheet7/lib/main.dart)
+
+
+## Final Project Assignment
+
+You can review the UI/UX design via the link below:
+* 🎨 [View Submitted Assignment on Figma](https://www.figma.com/design/MQcVQfrRmXDdZozhbrbTJX/tugas-besar-mobile?node-id=20-2013&t=F40F3yXzKQmX8ESp-1)
+
+---
+
+### Content of This Project
+
+Eat In Loc
+
+1. **GPS and Camera Functions**
+2. **Push Notifications**
+3. **Scan Qr Payment**
+4. **Check In and Order**
+5. **Live Report Menu**
+
+HERE: [Final Assigment]()
