@@ -60,3 +60,39 @@ HERE: [Assigment Week 6](jobsheet6/jobsheet6/lib/main.dart)
             - Shared Preferences
 
 HERE: [Assigment Week 7](jobsheet7/jobsheet7/lib/main.dart)
+
+Final Assigment Here:
+
+            - Eat In Loc
+            - GPS and Camera Functions
+            - Push Notifications
+            - Scan Qr Payment
+            - Minimum numbers of Screens/ Pages
+
+DESIGN HERE: [Final Assigment](https://www.figma.com/design/MQcVQfrRmXDdZozhbrbTJX/tugas-besar-mobile?node-id=20-2013&t=F40F3yXzKQmX8ESp-1)
+
+HERE: [Final Assigment](jobsheet7/jobsheet7/lib/main.dart)
+
+## Final Project Assignment
+
+You can review the UI/UX design via the link below:
+* 🎨 [View Submitted Assignment on Figma](https://www.figma.com/design/MQcVQfrRmXDdZozhbrbTJX/tugas-besar-mobile?node-id=20-2013&t=F40F3yXzKQmX8ESp-1)
+
+---
+
+### Content of This Project
+
+This project includes 15 main screens with dynamic layout variations (Total 29 Pages):
+
+1. **Splash Screen** - Initial loading page.
+2. **Dashboard (v1 - v3)** - Multi-state main dashboard views.
+3. **Home Screen** - Dynamic views based on crowd status (*All, Low, Moderate, High Crowd*).
+4. **Presence Map Screen** *(GPS Function)* - Live tracking with integrated map view (*All, Low, Moderate, High Crowd*).
+5. **Order History** - Past transactions log.
+6. **Notifications Screen** *(Push Notifications)* - Real-time user alerts.
+7. **Scan QR Screen** *(Camera Function)* - Quick presence action button to pop up camera.
+8. **Cafeteria / *Kantin* (1 - 4)** - Menu management for 4 stalls (*All, Foods, and Drinks layouts each*).
+9. **User Profile** - Account details and settings.
+10. **Shopping Cart** - Selected items breakdown.
+11. **Cart Payment Screen** - Checkout options via **QR Scanner** *(Camera Function)* or **Cash**.
+12. **Order Status Screen** - Live tracking of the current order progress.
