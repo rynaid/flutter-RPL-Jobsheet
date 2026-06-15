@@ -70,10 +70,10 @@ You can review the UI/UX design via the link below:
 
 Eat In Loc
 
-            - **GPS and Camera Functions**
-            - **Push Notifications**
-            - **Scan Qr Payment**
-            - **Check In and Order**
-            - **Live Report Menu**
+1. **GPS and Camera Functions**
+2. **Push Notifications**
+3. **Scan Qr Payment**
+4. **Check In and Order**
+5. **Live Report Menu**
 
 HERE: [Final Assigment](jobsheet7/jobsheet7/lib/main.dart)
