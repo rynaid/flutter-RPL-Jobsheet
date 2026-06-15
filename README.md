@@ -10,7 +10,7 @@ This repository has been created for the purpose of completing assignments for t
 
     Platform: Cross-platform (Android & iOS compatible)
 
-first week Assignment here :
+* first week Assignment here :
 
     1. An introduction to Flutter
 
