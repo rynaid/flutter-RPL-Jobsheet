@@ -58,23 +58,3 @@ HERE: [Assigment Week 6](jobsheet6/jobsheet6/lib/main.dart)
             - Shared Preferences
 
 HERE: [Assigment Week 7](jobsheet7/jobsheet7/lib/main.dart)
-
-
-## Final Project Assignment
-
-You can review the UI/UX design via the link below:
-* 🎨 [View Submitted Assignment on Figma](https://www.figma.com/design/MQcVQfrRmXDdZozhbrbTJX/tugas-besar-mobile?node-id=20-2013&t=F40F3yXzKQmX8ESp-1)
-
----
-
-### Content of This Project
-
-Eat In Loc
-
-1. **GPS and Camera Functions**
-2. **Push Notifications**
-3. **Scan Qr Payment**
-4. **Check In and Order**
-5. **Live Report Menu**
-
-HERE: [Final Assigment](eat_in_loc/lib/main.dart)
